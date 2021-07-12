@@ -1,0 +1,39 @@
+.header-color {
+  background: #000046; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #000046,
+    #1cb5e0
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #000046,
+    #1cb5e0
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.landing-grid {
+  background: #348f50; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #348f50,
+    #56b4d3
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #348f50,
+    #56b4d3
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 545px;
+}
+.badge {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  z-index: 2;
+}
+.golf-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+  border-radius: 10px;
+}
