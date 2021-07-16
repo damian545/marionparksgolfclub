@@ -7,32 +7,43 @@ class Golf extends Component {
         return(
 <div style={{width: "100%", margin: "auto"}}>
     <Grid className="landing-grid">
-        <Cell col={2}>
-         
+        <Cell className="golf-left-col" col={3}>
+         <img 
+         src="/images/mpgc-golf-team.webp"/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-golf-team2.webp"/>
+         <br/>
+         <br/>
+         <img src="/images/mpgc-team1.webp"/>
+         <br/>
+         <br/>
+         <img src="/images/mpgc-team2.webp"/>
         </Cell>
-        <Cell className="golf-right-col" col={10}> 
+        <Cell className="golf-right-col" col={9}> 
         
-       <h1 style={{fontSize:"46px"}}>Benefits of joining Marion Park Golf Club</h1> 
-​​
+       <h1 style={{fontSize:"46px"}}>Benefits of joining Marion Park Golf Club</h1> ​​
+<hr style={{borderTop:"5px dotted rgb(42, 101, 230)"}}/>
+<ul>
+<li><p><span class="dot"></span>We have a challenging 9 Hole Golf Course which is located on the top of the hill in Seacliff looking over stunning coastal views and caters for all levels of playing ability.</p></li>
 
-<p>We have a challenging 9 Hole Golf Course which is located on the top of the hill in Seacliff looking over stunning coastal views and caters for all levels of playing ability.</p>
+<p><span class="dot"></span>There is a good mix of competitive and social golf including mixed and 18 Hole events.</p>
 
-<p>There is a good mix of competitive and social golf including mixed and 18 Hole events.</p>
+<p><span class="dot"></span>We have competitively priced 5 and 7 day or pay as you play  memberships available.</p>
 
-<p>We have competitively priced 5 and 7 day or pay as you play  memberships available.</p>
+<p><span class="dot"></span>There is an excellent well equipped Pro-Shop run by professional staff.</p>
 
-<p>There is an excellent well equipped Pro-Shop run by professional staff.</p>
+<p><span class="dot"></span>We have an agreed selection of prime dedicated times available for our Members on our Wednesday and Saturday competitions.</p>
 
-<p>We have an agreed selection of prime dedicated times available for our Members on our Wednesday and Saturday competitions.</p>
+<p><span class="dot"></span>Discounted green fees are available to all members.</p>
 
-<p>Discounted green fees are available to all members.</p>
+<p><span class="dot"></span>Clubhouse is available to hire for private functions. </p>
 
-<p>Clubhouse is available to hire for private functions. </p>
+<p><span class="dot"></span>The club house is licenced to sell alcoholic beverage to members and public.</p>
 
-<p>The club house is licenced to sell alcoholic beverage to members and public.</p>
-
-<p>SA Public Courses Pennant Competition representation</p>
-        
+<p><span class="dot"></span>SA Public Courses Pennant Competition representation</p>
+   </ul>     
         </Cell>
     </Grid>
 </div>

@@ -5,7 +5,7 @@ class Contact extends Component {
     render() {
         return(
 <div style={{width: "100%", margin: "auto"}}>
-    <Grid className="landing-grid">
+    <Grid className="landing-grid" style={{height: "545px"}}>
         <Cell col={12}>
             
         </Cell>

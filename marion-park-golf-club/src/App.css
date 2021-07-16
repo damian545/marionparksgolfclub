@@ -23,7 +23,7 @@
     #348f50,
     #56b4d3
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  height: 545px;
+  height: auto;
 }
 .badge {
   position: absolute;
@@ -36,4 +36,57 @@
   color: white;
   padding: 2em;
   border-radius: 10px;
+}
+/*.dot {
+  height: 5px;
+  width: 5px;
+  background-color: rgb(42, 101, 230);
+  border-radius: 50%;
+  display: inline-block;
+}*/
+.banner-text {
+  background-color: black;
+  opacity: 0.8;
+  width: 100%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: lightyellow;
+  letter-spacing: 5px;
+}
+
+.banner-text hr {
+  border-top: 5px dotted lightyellow;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: lightyellow;
+  font-size: 20px;
+  padding: 1em;
+}
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: lightyellow;
+  font-size: 5em;
+  padding: 8px;
+}
+li span {
+  position: relative;
+  left: -10px;
+  height: 5px;
+  width: 5px;
+  background-color: rgb(42, 101, 230);
+  border-radius: 50%;
 }
