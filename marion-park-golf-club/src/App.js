@@ -13,18 +13,20 @@ class App extends Component {
             Marion Park Golf Club Inc.
           </Link>}>            
             <Navigation>
-                <Link to="/golf">Golf</Link>
-                <Link to="/aboutme">About Us</Link>
-                <Link to="/contact">Contact</Link>
-                <Link to="/clubsponsors">Club Sponsors</Link>
+                <Link to="/golf" style={{fontSize:"20px"}}>Golf</Link>
+                <Link to="/greenfees" style={{fontSize:"20px"}}>Green Fees</Link>
+                <Link to="/contact" style={{fontSize:"20px"}}>Contact</Link>
+                <Link to="/clubsponsors" style={{fontSize:"20px"}}>Club Sponsors</Link>
+                <Link to="/coursetour" style={{fontSize:"20px"}}>Course Tour</Link>
             </Navigation>
         </Header>
-        <Drawer title="Marion Parks Golf Club Inc">
+        <Drawer title="Marion Parks Golf Club Inc.">
             <Navigation>
-                <Link to="/golf">Golf</Link>
-                <Link to="/aboutme">About Us</Link>
-                <Link to="/contact">Contact</Link>
-                <Link to="/clubsponsors">Club Sponsors</Link>
+                <Link to="/golf" style={{fontSize:"20px"}} >Golf</Link>
+                <Link to="/greenfees" style={{fontSize:"20px"}}>Green Fees</Link>
+                <Link to="/contact" style={{fontSize:"20px"}}>Contact</Link>
+                <Link to="/clubsponsors" style={{fontSize:"20px"}}>Club Sponsors</Link>
+                <Link to="/coursetour" style={{fontSize:"20px"}}>Course Tour</Link>
             </Navigation>
         </Drawer>
         <Content>

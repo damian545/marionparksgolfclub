@@ -57,11 +57,12 @@
   font-weight: bold;
   color: lightyellow;
   letter-spacing: 5px;
+  text-shadow: 3px 3px 8px rgb(54, 20, 179);
 }
 
 .banner-text hr {
   border-top: 5px dotted lightyellow;
-  width: 50%;
+  width: 95%;
   margin: auto;
 }
 
@@ -78,15 +79,46 @@
 }
 
 .social-links i {
-  color: lightyellow;
+  color: rgb(10, 72, 97);
   font-size: 5em;
   padding: 8px;
+}
+.social-links-1 i {
+  color: rgb(10, 72, 97);
+  font-size: 5em;
+  padding: 8px;
+  position: absolute;
+  top: 200px;
+  left: 25px;
+  z-index: 2;
 }
 li span {
   position: relative;
   left: -10px;
   height: 5px;
   width: 5px;
-  background-color: rgb(42, 101, 230);
   border-radius: 50%;
+}
+.clubsponsor {
+  text-align: center;
+  padding-top: 35px;
+}
+.image img {
+  position: relative;
+  bottom: 50px;
+  margin: 10px;
+}
+.images img {
+  position: relative;
+  top: 15px;
+  left: 60px;
+  margin: auto;
+}
+.home-page-img {
+  display: block;
+  margin-left: 100px;
+  margin-right: auto;
+}
+.heading {
+  text-shadow: 3px 3px 8px rgb(54, 20, 179);
 }

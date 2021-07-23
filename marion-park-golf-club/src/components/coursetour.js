@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 
-class Contact extends Component {
+class CourseTour extends Component {
     render() {
         return(
 <div style={{width: "100%", margin: "auto"}}>
     <Grid className="landing-grid" style={{height: "545px"}}>
         <Cell col={3}>
         <img 
-         src="/images/mpgc-golf-cart.webp"/>
+         src=""/>
          <br/>
          <br/>
          <img src="/images/mpgc-badge-img.jpg"             
@@ -22,10 +22,12 @@ class Contact extends Component {
         </Cell>
         <Cell className="contact-right-col" col={9}>
         <div className="banner-text">
-        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightyellow"}}>CONTACT US.</h1>
+        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightyellow"}}>COURSE TOUR.</h1>
 
         <hr/>
+<div className="course-images">
 
+</div>
         
 
         
@@ -37,4 +39,4 @@ class Contact extends Component {
     }
 }
 
-export default Contact;
+export default CourseTour;
