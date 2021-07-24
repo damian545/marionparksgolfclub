@@ -18,7 +18,7 @@ class Landing extends Component {
              <img src="/images/mpgc-badge-img.jpg"
              class="badge"
             style={{ height:"175px", width:"175px", borderRadius: "50%"}}/>
-<Cell className="social-links-1"><a href="https://google.com/MarionParkGC">
+<Cell className="social-links-1"><a href="https://facebook.com/MarionParkGC">
                 <i className="fa fa-facebook-square" aria-hidden="true" />
             </a></Cell>
             

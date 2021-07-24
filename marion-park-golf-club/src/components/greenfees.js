@@ -8,43 +8,22 @@ class Greenfees extends Component {
 <div style={{width: "100%", margin: "auto"}}>
     <Grid className="landing-grid" style={{height: "100%"}}>
     <Cell className="greenfee-left-col" col={3}>
-         
+         <div className="fixed">
          <img src="/images/mpgc-badge-img.jpg"             
             style={{ height:"175px", width:"175px", borderRadius: "50%"}}/>
          <br/>
-         <br/>
-         <br/>
+         
          <Cell className="social-links"><a href="https://google.com/MarionParkGC">
                 <i className="fa fa-facebook-square" aria-hidden="true" />
             </a></Cell>
          <img 
          src="/images/mpgc-tree.webp"
-         style={{height:"300px", width:"300px"}}/>
+         style={{height:"200px", width:"250px"}}/>
          <br/>
          <br/>   
          <br/>
-         <br/>
-         <br/>
-         <br/>
-            <img src="/images/mpgc-hole1.webp"
-         style={{height:"300px", width:"300px"}}/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <img src="/images/mpgc-golf-cart.webp"
-         style={{height:"300px", width:"300px"}}/>        
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <br/>
-         <img src="/images/mpgc-secondhole.webp"
-         style={{height:"300px", width:"320px"}}/>
+        
+         </div>  
         </Cell>
         <Cell className="aboutme-right-col" col={9}>
         <div className="banner-text">
@@ -90,7 +69,7 @@ class Greenfees extends Component {
     <p style={{textDecoration:"underline"}}>NO JOINING FEE</p>
 
     <p>New Full Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$145(1st year incudes a unique Members Shirt)</p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$145&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1st year incudes a unique Members Shirt)</p>
 
     <p>Full Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$110</p>
@@ -98,7 +77,10 @@ class Greenfees extends Component {
     <p>Junior Member (18 & under)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$55</p>
 <div className="box">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;PLEASE NOTE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above Membership categories DO NOT include Green Fees</p>
+    
 </div>
+<br/>
+<br/>
 <br/>
 <br/>
 <hr/>

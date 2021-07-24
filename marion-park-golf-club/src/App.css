@@ -127,11 +127,14 @@ li span {
 }
 .box {
   width: 800px;
-  border: 5px solid rgb(49, 105, 224);
+  border: 5px solid rgb(241, 151, 33);
   padding: 10px;
   margin-left: 70px;
-  top: 5px;
-  bottom: 10px;
+  top: 30px;
+  bottom: 5px;
   position: relative;
-  height: 45px;
+  height: 15px;
+}
+.fixed {
+  position: fixed;
 }
