@@ -85,11 +85,11 @@
 }
 .social-links-1 i {
   color: rgb(10, 72, 97);
-  font-size: 5em;
+  font-size: 100px;
   padding: 8px;
   position: absolute;
-  top: 200px;
-  left: 25px;
+  top: 280px;
+  left: 105px;
   z-index: 2;
 }
 li span {
@@ -118,6 +118,9 @@ li span {
   display: block;
   margin-left: 100px;
   margin-right: auto;
+}
+.img {
+  filter: brightness(70%);
 }
 .heading {
   text-shadow: 3px 3px 8px rgb(54, 20, 179);

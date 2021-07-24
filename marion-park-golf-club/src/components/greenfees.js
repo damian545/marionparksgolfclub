@@ -19,7 +19,7 @@ class Greenfees extends Component {
             </a></Cell>
          <img 
          src="/images/mpgc-tree.webp"
-         style={{height:"300", width:"300px"}}/>
+         style={{height:"300px", width:"300px"}}/>
          <br/>
          <br/>   
          <br/>
@@ -27,7 +27,7 @@ class Greenfees extends Component {
          <br/>
          <br/>
             <img src="/images/mpgc-hole1.webp"
-         style={{height:"300", width:"300px"}}/>
+         style={{height:"300px", width:"300px"}}/>
          <br/>
          <br/>
          <br/>
@@ -35,7 +35,7 @@ class Greenfees extends Component {
          <br/>
          <br/>
          <img src="/images/mpgc-golf-cart.webp"
-         style={{height:"300", width:"300px"}}/>        
+         style={{height:"300px", width:"300px"}}/>        
          <br/>
          <br/>
          <br/>
@@ -44,11 +44,11 @@ class Greenfees extends Component {
          <br/>
          <br/>
          <img src="/images/mpgc-secondhole.webp"
-         style={{height:"500", width:"320px"}}/>
+         style={{height:"300px", width:"320px"}}/>
         </Cell>
         <Cell className="aboutme-right-col" col={9}>
         <div className="banner-text">
-        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>Green Fees <p>payable in addition to Club Memebership Fees</p></h1>
+        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>GREEN FEES <p>payable in addition to Club Memebership Fees</p></h1>
         
 <p style={{textAlign:"center"}}>The course green fees are managed by the Course Managers Belair Turf Management.</p>
         <hr/>

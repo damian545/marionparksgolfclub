@@ -13,7 +13,7 @@ class Landing extends Component {
             <img           
             src="/images/mpgc-homepage-img.webp"            
             alt="homepage picture"
-            style={{ height: "280px", width: "90%"}}
+            style={{ height: "400px", width: "95%"}}
             />
              <img src="/images/mpgc-badge-img.jpg"
              class="badge"
@@ -26,7 +26,7 @@ class Landing extends Component {
 
             <div className="banner-text">
 
-            <h1 style={{fontSize: "65px", textAlign:"center", color:"lightgreen"}}>Welcome to Marion Park Golf Club!</h1>
+            <h1 style={{fontSize: "65px", textAlign:"center", color:"lightgreen"}}>Welcome to Marion Park Golf Club</h1>
 
 <hr/>
 <div style={{textAlign:"center"}}>    

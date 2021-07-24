@@ -9,7 +9,7 @@ class ClubSponsors extends Component {
     <Grid className="landing-grid" style={{height: "545px"}}>
         <Cell className="clubsponsor" col={12}>
         <div className="banner-text">
-        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightyellow"}}>CLUB SPONSORS.</h1>
+        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightyellow"}}>CLUB SPONSORS</h1>
 
         <hr/>
         <br/>
