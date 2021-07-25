@@ -12,13 +12,14 @@ class CourseTour extends Component {
             src="/images/mpgc-homepage-img.webp"            
             alt="homepage picture"
             style={{ height: "440px", width: "100%"}}
-            />           
-            
+            />  
+            <br/>         
+           <p>An Original Website Created By Damian Tapp</p> 
 </div>
         <div className="banner-text">
         <h1 style={{fontSize: "73px", textAlign:"center", color:"lightyellow"}}>COURSE TOUR</h1>
-<p style={{textAlign:"center"}}>Our course is played off 4 different coloured tee markers, Red, Yellow, White & Blue. All the lengths of each 
-    hole, are based upon the Blue markers. Sloping fairways will test your abilities & many risk V's reward holes on offer here.
+<p style={{textAlign:"center"}}>Our course is played off 4 different coloured tee markers, Blue, White, Yellow & Red. The meterage of every 
+    hole, are based upon the Blue markers. The sloping fairways will test your abilities & many risk V's reward holes on offer as well.
 </p>
         <hr/>
 <div className="course-images" style={{textAlign:"center"}}>
@@ -49,7 +50,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>Opening hole is a straight away 358 meter par 4, sloping to the right. Beware of the fairway bunker on the left, it will catch the long 
+         <p>Opening hole is a straight away 358 metre par 4, sloping to the right. Beware of the fairway bunker on the left, it will catch the long 
              hitters. Second shot is uphill, so take an extra club or 2 for getting onto the green. There is a backstop at the top, so hitting a little long 
              is ok.
          </p>
@@ -73,7 +74,7 @@ class CourseTour extends Component {
          <br/>
          <br/>
          <br/>  
-         <p>Second hole is a 175 meter downhill par 3, it's a slight challenge at times. Coming up short is the bail out here, but 
+         <p>Second hole is a 175 metre downhill par 3, it's a slight challenge at times. Coming up short is the bail out here, but 
              going for the green can be rewarding. Depends on where the hole is & there is a green side bunker on the right, to 
              catch the fade.
          </p>
@@ -103,7 +104,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>Third hole is a 441 meter par 5, getting a long drive close to the top of the hill. Can give you a shot at getting on 
+         <p>Third hole is a 441 metre par 5, getting a long drive close to the top of the hill. Can give you a shot at getting on 
              in 2 & putting for eagle (It will probably be a blind shot getting down to the green). There are 2 bunkers by the green, 1 on the left & green side right are waiting for you when you try. (so getting par is good.)
              Missing it left into the trees off the tee, is bad & you'll probably bogey the hole. So play it smart & you'll be rewarded.
          </p>
@@ -127,7 +128,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>Forth hole is across the Boral Quarry access road. This is a 145 meter par 3, not a terriably hard hole. But a windy day 
+         <p>Forth hole is across the Boral Quarry access road. This is a 145 metre par 3, not a terriably hard hole. But a windy day 
              can make it interestingly hard. No real danger here, unless you hook it or slice it into the trees.
          </p>
          <br/>
@@ -162,7 +163,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>Fifth hole plays as a 189 meter par 3 and 224 meter par 4, depends on you. Playing it as a par 4, dog legs to 
+         <p>Fifth hole plays as a 189 metre par 3 and 224 metre par 4, depends on you. Playing it as a par 4, dog legs to 
              the right. So wanting to cut the corner is an option & a nice challenge with a risk V's reward.
              The dangers here are long left, you will lose your ball there & trees on the right. Laying up on the par 4 is an option.
              
@@ -199,7 +200,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>The Sixth hole is back across the Boral Quarry access road. It is a 314 meter par 4 down hill dog leg right, 
+         <p>The Sixth hole is back across the Boral Quarry access road. It is a 314 metre par 4 down hill dog leg right, 
              you can cut the corner over the trees here to shorten the hole. But don't bite off more than you can chew
              because you can get caught up in all those trees & that makes it hard to achieve par. It is a risk V's reward hole,
              playing to the corner is good idea & hitting it long straight gets you OOB with a lost ball.</p>  
@@ -236,7 +237,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>Seventh hole is a 307 meter uphill par 4, slight dog leg near the top. There is a bunker top right to catch an 
+         <p>Seventh hole is a 307 metre uphill par 4, slight dog leg near the top. There is a bunker top right to catch an 
              over done fade & the other danger is left into the paddock. It actually plays longer being uphill, so use 1 or 2 
              clubs more for your second shot. Don't miss the green to the right, as it will roll away making it very hard 
              to get back on.
@@ -273,7 +274,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>The Eighth hole is a 436 meter uphill par 5 sloping to the left, driving the ball up the center of the fairway is key here. Pushing it right 
+         <p>The Eighth hole is a 436 metre uphill par 5 sloping to the left, driving the ball up the center of the fairway is key here. Pushing it right 
              into the trees & going left isn't any better. Long hitters getting to the top of the hill, rewards you of going for the green 
              in 2. There are trees to the right to catch a faded ball & a greenside bunker on the left the other danger. 
          </p>
@@ -306,7 +307,7 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <p>The Ninth hole is a short 216 meter par 4 which is driveable (from the white tees it's 240 meters), there is a greenside bunker on the right to catch you 
+         <p>The Ninth hole is a short 216 metre par 4 which is driveable (from the white tees it's 240 metres), there is a greenside bunker on the right to catch you 
              when you try to drive the green. The other dangers are the trees on the left & right side of the fairway, laying up 
              is an option. Your second shot to the green is uphill, so you need up to 3 clubs more to get on in 2. Don't come up
              short or let it roll off the left side, it is even harder to get back on to save par. This is another risk V's reward hole. </p>             
@@ -316,12 +317,14 @@ class CourseTour extends Component {
          <br/> 
           <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
          <br/>
+         <br/>        
+         </div>
+         <p style={{textAlign:"center", fontSize:"25px"}}>We hope you enjoyed your round of golf here at Marion Park Golf Club, hope to see you again soon.</p>
+         <hr/>        
+         <br/>
          <br/>   
          <br/>
-         <br/>  
-</div>
-        
-
+         <br/> 
         
         </div> 
         </Cell>

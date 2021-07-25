@@ -21,7 +21,7 @@ class Landing extends Component {
 <Cell className="social-links-1"><a href="https://facebook.com/MarionParkGC">
                 <i className="fa fa-facebook-square" aria-hidden="true" />
             </a></Cell>
-            
+            <p>An Original Website Created By Damian Tapp</p>
 </div>
 
             <div className="banner-text">
@@ -56,11 +56,15 @@ The undulating fairways offer a unique experience but not an exhausting one. Hav
 
 The 270 degree views of the coast line and Adelaide plains are simply spectacular and make the course unique for such an accessible and local location.
 </p>
-
 </div>
+<hr/>
+<br/>
+<br/>
             </div>
         </Cell>
+        
     </Grid>
+    
 </div>
         );
     }

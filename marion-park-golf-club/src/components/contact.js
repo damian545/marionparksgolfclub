@@ -19,6 +19,9 @@ class Contact extends Component {
          src="/images/mpgc-golfclubs.webp"
          style={{height:"200px", width:"250px"}}/>
          <br/>
+         <br/>        
+         <p>An Original Website Created By Damian Tapp</p>
+         <br/>
          <br/>
          <br/>
          <br/>   
