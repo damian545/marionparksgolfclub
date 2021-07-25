@@ -28,16 +28,28 @@ class CourseTour extends Component {
          <br/>  
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 1:</p>
          <img 
+         src="/images/mpgc-firsthole-img.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
          src="/images/mpgc-firsthole-img1.jpg"
-         style={{height:"400px", width:"350px", marginRight:"40px"}}/>
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
          <img 
          src="/images/mpgc-firsthole-img2.jpg"
-         style={{height:"400px", width:"350px"}}/>
+         style={{height:"300px", width:"300px"}}/>
+          <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-firsthole-fairway-bunker.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-firsthole-greenside-bunker.jpg"
+         style={{height:"300px", width:"300px"}}/>
           <br/>
          <br/>   
          <br/>
          <br/> 
-         <p>Opening hole is a straight away 375 meter par 4, sloping to the right. Beware of the fairway bunker on the left, it will catch the long 
+         <p>Opening hole is a straight away 358 meter par 4, sloping to the right. Beware of the fairway bunker on the left, it will catch the long 
              hitters. Second shot is uphill, so take an extra club or 2 for getting onto the green. There is a backstop at the top, so hitting a little long 
              is ok.
          </p>
@@ -51,9 +63,12 @@ class CourseTour extends Component {
          <br/>
          <br/>  
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 2:</p>
-          <img 
-         src="/images/mpgc-secondhole-img.jpg"
-         style={{height:"400px", width:"350px"}}/>
+         <img src="/images/mpgc-secondhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>    
+            <img src="/images/mpgc-secondhole-img.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-secondhole-bunker.jpg"
+         style={{height:"300px", width:"300px"}}/>        
          <br/>
          <br/>
          <br/>
@@ -71,16 +86,24 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 3:</p>       
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE 3:</p> 
+           <img src="/images/mpgc-thirdhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>    
             <img src="/images/mpgc-thirdhole-img.jpg"
-         style={{height:"400px", width:"350px", marginRight:"40px"}}/>
-         <img src="/images/mpgc-thirdhole-green.webp"
-         style={{height:"400px", width:"350px"}}/>
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-thirdhole-img2.jpg"
+         style={{height:"300px", width:"300px"}}/>
+         <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-thirdhole-green.webp"
+         style={{height:"300px", width:"300px"}}/>
          <br/>
          <br/>   
          <br/>
          <br/> 
-         <p>Third hole is a 470 meter par 5, getting a long drive close to the top of the hill. Can give you a shot at getting on 
+         <p>Third hole is a 441 meter par 5, getting a long drive close to the top of the hill. Can give you a shot at getting on 
              in 2 & putting for eagle (It will probably be a blind shot getting down to the green). There are 2 bunkers by the green, 1 on the left & green side right are waiting for you when you try. (so getting par is good.)
              Missing it left into the trees off the tee, is bad & you'll probably bogey the hole. So play it smart & you'll be rewarded.
          </p>
@@ -96,7 +119,9 @@ class CourseTour extends Component {
          <br/>
          <br/>
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 4:</p>
-         <img src="/images/mpgc-golf-cart2.webp"
+         <img src="/images/mpgc-forthhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/> 
+         <img src="/images/mpgc-forthhole-img2.jpg"
          style={{height:"300px", width:"300px"}}/> 
          <br/>
          <br/>   
@@ -118,8 +143,21 @@ class CourseTour extends Component {
          <br/>
          <br/>
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 5:</p>
-         <img src="/images/mpgc-secondhole.webp"
-         style={{height:"500px", width:"320px"}}/> 
+         <img 
+         src="/images/mpgc-fifthhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-fifthhole-img2.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-fifthhole-img3.jpg"
+         style={{height:"300px", width:"300px"}}/>
+         <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-fifthhole-green.jpg"
+         style={{height:"300px", width:"300px"}}/>
          <br/>
          <br/>   
          <br/>
@@ -142,8 +180,21 @@ class CourseTour extends Component {
          <br/>
          <br/>
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 6:</p>
-         <img src="/images/mpgc-group-of-buggies.webp"
-         style={{height:"300px", width:"320px"}}/>
+         <img 
+         src="/images/mpgc-sixthhole-img2.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-sixthhole-img4.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-sixthhole-img3.jpg"
+         style={{height:"300px", width:"300px"}}/>
+         <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-sixthhole-img5.jpg"
+         style={{height:"300px", width:"300px"}}/>
          <br/>
          <br/>   
          <br/>
@@ -163,8 +214,24 @@ class CourseTour extends Component {
          <br/>
          <br/> 
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 7:</p>                 
-            <img src="/images/mpgc-golfclubs.webp"
-         style={{height:"380px", width:"300px"}}/>
+         <img 
+         src="/images/mpgc-seventhhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-seventhhole-img2.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-seventhhole-img.jpg"
+         style={{height:"300px", width:"300px"}}/>
+         <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-seventhhole-bunker.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+        <img 
+         src="/images/mpgc-seventhhole-green-img.jpg"
+         style={{height:"300px", width:"300px"}}/>  
          <br/>
          <br/>   
          <br/>
@@ -185,13 +252,28 @@ class CourseTour extends Component {
          <br/>  
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 8:</p> 
           <img 
-         src="/images/mpgc-tree.webp"
+         src="/images/mpgc-eighthhole-img.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-eighthhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img 
+         src="/images/mpgc-eighthhole-img2.jpg"
          style={{height:"300px", width:"300px"}}/>
+         <br/>
+         <br/>
+         <br/>
+         <img 
+         src="/images/mpgc-eighthhole-img3.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+        <img 
+         src="/images/mpgc-eighthhole-img4.jpg"
+         style={{height:"300px", width:"300px"}}/> 
          <br/>
          <br/>   
          <br/>
          <br/> 
-         <p>The Eighth hole is a 450 meter uphill par 5 sloping to the left, driving the ball up the center of the fairway is key here. Pushing it right 
+         <p>The Eighth hole is a 436 meter uphill par 5 sloping to the left, driving the ball up the center of the fairway is key here. Pushing it right 
              into the trees & going left isn't any better. Long hitters getting to the top of the hill, rewards you of going for the green 
              in 2. There are trees to the right to catch a faded ball & a greenside bunker on the left the other danger. 
          </p>
@@ -205,13 +287,26 @@ class CourseTour extends Component {
          <br/>
          <br/>  
          <p style={{color:"orange", fontSize:"40px"}}>HOLE 9:</p>       
-            <img src="/images/mpgc-hole1.webp"
-         style={{height:"300px", width:"300px"}}/>
+            <img src="/images/mpgc-ninthhole-img2.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-ninthhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-ninthhole-bunker.jpg"
+         style={{height:"300px", width:"300px"}}/>         
+         <br/>
+         <br/>
+         <br/>
+         <img src="/images/mpgc-ninthhole-img4.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-ninthhole-img1.jpg"
+         style={{height:"300px", width:"300px", marginRight:"40px"}}/>
+         <img src="/images/mpgc-ninthhole-img3.jpg"
+         style={{height:"300px", width:"300px"}}/>     
          <br/>
          <br/>   
          <br/>
          <br/> 
-         <p>The Ninth hole is a short 240 meter par 4 which is driveable, there is a greenside bunker on the right to catch you 
+         <p>The Ninth hole is a short 216 meter par 4 which is driveable (from the white tees it's 240 meters), there is a greenside bunker on the right to catch you 
              when you try to drive the green. The other dangers are the trees on the left & right side of the fairway, laying up 
              is an option. Your second shot to the green is uphill, so you need up to 3 clubs more to get on in 2. Don't come up
              short or let it roll off the left side, it is even harder to get back on to save par. This is another risk V's reward hole. </p>             

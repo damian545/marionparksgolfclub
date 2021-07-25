@@ -61,7 +61,7 @@
 }
 
 .banner-text hr {
-  border-top: 5px dotted lightyellow;
+  border-top: 5px solid rgb(61, 171, 199);
   width: 95%;
   margin: auto;
 }
@@ -101,7 +101,7 @@ li span {
 }
 .clubsponsor {
   text-align: center;
-  padding-top: 35px;
+  padding-top: 3px;
 }
 .image img {
   position: relative;
@@ -130,11 +130,43 @@ li span {
   border: 5px solid rgb(241, 151, 33);
   padding: 10px;
   margin-left: 70px;
-  top: 30px;
-  bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 5px;
   position: relative;
-  height: 15px;
 }
 .fixed {
   position: fixed;
+}
+.blink {
+  animation: blink 1s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@media only screen and (max-width: 800px) {
+  /* For tablets: */
+  .main {
+    width: 80%;
+    padding: 0;
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  /* For mobile phones: */
+  .menu,
+  .main,
+  .right {
+    width: 100%;
+  }
 }

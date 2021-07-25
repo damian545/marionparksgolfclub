@@ -27,8 +27,8 @@ class Greenfees extends Component {
         </Cell>
         <Cell className="aboutme-right-col" col={9}>
         <div className="banner-text">
-        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>GREEN FEES <p>payable in addition to Club Memebership Fees</p></h1>
-        
+        <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>GREEN FEES</h1>
+         <p style={{textDecoration:"underline", textAlign:"center"}}>Payable in addition to Club Memebership Fees</p>
 <p style={{textAlign:"center"}}>The course green fees are managed by the Course Managers Belair Turf Management.</p>
         <hr/>
         <div style={{textAlign:"center"}}>
@@ -59,14 +59,15 @@ class Greenfees extends Component {
 <hr/>
 </div>
 
-<p style={{textDecoration:"underline"}}>Become a Member & save $$$.</p>
-<p style={{textDecoration:"underline"}}>Annual Passes Available.</p>
-<p style={{textDecoration:"underline"}}>MPGC Members discounts available.</p>
+<p style={{textDecoration:"underline", textAlign:"center"}}>Become a Member & save <span style={{color:"orange"}}>$$$</span>.</p>
+<p style={{textDecoration:"underline", textAlign:"center"}}>Annual Passes Available.</p>
+<p style={{textDecoration:"underline", textAlign:"center"}}>MPGC Members discounts available.</p>
 
    <hr/>     
-   <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>BECOME A MEMBER <p>The Club Annual Subscription Fees are payable on the 1st of March each year.</p></h1>
+   <h1 style={{fontSize: "73px", textAlign:"center", color:"lightgreen"}}>BECOME A MEMBER </h1>
+    <p style={{textAlign:"center"}}>The Club Annual Subscription Fees are payable on the 1st of March each year.</p>
     <hr/>
-    <p style={{textDecoration:"underline"}}>NO JOINING FEE</p>
+    <p style={{textDecoration:"underline", color:"orange"}}>NO JOINING FEE</p>
 
     <p>New Full Member&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$145&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1st year incudes a unique Members Shirt)</p>
@@ -76,12 +77,10 @@ class Greenfees extends Component {
 
     <p>Junior Member (18 & under)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$55</p>
 <div className="box">
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;PLEASE NOTE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above Membership categories DO NOT include Green Fees</p>
+    <p style={{font:"76px"}}><span class="blink">&nbsp;&nbsp;&nbsp;&nbsp;PLEASE NOTE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above Membership categories DO NOT include Green Fees!</span></p>
     
 </div>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <hr/>
 <br/>
