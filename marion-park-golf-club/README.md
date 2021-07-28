@@ -1,3 +1,12 @@
+# Marion Parks Golf Club website
+
+As a golfer:
+
+I want to view the course.
+Find the fees.
+Find the directions where they are.
+How much the membership is.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
