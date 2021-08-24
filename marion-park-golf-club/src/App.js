@@ -9,24 +9,24 @@ class App extends Component {
         return (
 <div className="demo-big-content">
     <Layout>
-        <Header className="header-color" title={<Link style={{ textDecoration: "none", color: "lightyellow" }} to="/">
-            Marion Park Golf Club Inc.
+        <Header className="header-color" title={<Link style={{ textDecoration: "none", color: "lightyellow", fontSize:"25px" }} to="/">
+            Marion Park Golf Park Inc.
           </Link>}>            
             <Navigation>
-                <Link to="/golf" style={{fontSize:"20px"}}>Golf</Link>
-                <Link to="/greenfees" style={{fontSize:"20px"}}>Green Fees</Link>
-                <Link to="/contact" style={{fontSize:"20px"}}>Contact</Link>
-                <Link to="/clubsponsors" style={{fontSize:"20px"}}>Club Sponsors</Link>
-                <Link to="/coursetour" style={{fontSize:"20px"}}>Course Tour</Link>
+                <Link to="/golf" style={{fontSize:"20px", color:"lime"}}>Golf</Link>
+                <Link to="/greenfees" style={{fontSize:"20px", color:"lime"}}>Green Fees</Link>
+                <Link to="/contact" style={{fontSize:"20px", color:"lime"}}>Contact</Link>
+                <Link to="/clubsponsors" style={{fontSize:"20px", color:"lime"}}>Club Sponsors</Link>
+                <Link to="/coursetour" style={{fontSize:"20px", color:"lime"}}>Course Tour</Link>
             </Navigation>
         </Header>
-        <Drawer title="Marion Parks Golf Club Inc.">
+        <Drawer title="Marion Parks Golf Course.">
             <Navigation>
-                <Link to="/golf" style={{fontSize:"20px"}} >Golf</Link>
-                <Link to="/greenfees" style={{fontSize:"20px"}}>Green Fees</Link>
-                <Link to="/contact" style={{fontSize:"20px"}}>Contact</Link>
-                <Link to="/clubsponsors" style={{fontSize:"20px"}}>Club Sponsors</Link>
-                <Link to="/coursetour" style={{fontSize:"20px"}}>Course Tour</Link>
+                <Link to="/golf" style={{fontSize:"20px", color:"lime"}} >Golf</Link>
+                <Link to="/greenfees" style={{fontSize:"20px", color:"lime"}}>Green Fees</Link>
+                <Link to="/contact" style={{fontSize:"20px", color:"lime"}}>Contact</Link>
+                <Link to="/clubsponsors" style={{fontSize:"20px", color:"lime"}}>Club Sponsors</Link>
+                <Link to="/coursetour" style={{fontSize:"20px", color:"lime"}}>Course Tour</Link>
             </Navigation>
         </Drawer>
         <Content>

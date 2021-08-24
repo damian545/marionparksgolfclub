@@ -22,12 +22,12 @@ class CourseTour extends Component {
     hole, are based upon the Blue markers. The sloping fairways will test your abilities & many risk V's reward holes on offer as well.
 </p>
         <hr/>
-<div className="course-images" style={{textAlign:"center"}}>
-         <br/>
-         <br/>   
+<div className="course-images" style={{textAlign:"center"}}>           
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 1:</p>
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 1</p>
+         <br/>
+         <br/>
          <img 
          src="/images/mpgc-firsthole-img.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
@@ -58,12 +58,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-         <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
-         <br/>
-         <br/>
+         <hr style={{borderTop:"2px solid orange", width:"95%"}}/>        
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 2:</p>
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 2</p>
+         <br/>
+         <br/>
          <img src="/images/mpgc-secondhole-img1.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>    
             <img src="/images/mpgc-secondhole-img.jpg"
@@ -82,12 +82,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
-         <br/>
-         <br/>   
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>          
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 3:</p> 
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 3</p> 
+         <br/>
+         <br/>
            <img src="/images/mpgc-thirdhole-img1.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>    
             <img src="/images/mpgc-thirdhole-img.jpg"
@@ -112,14 +112,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>       
          <br/>
          <br/>
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 4</p>
          <br/>
          <br/>
-         <br/>
-         <br/>
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 4:</p>
          <img src="/images/mpgc-forthhole-img1.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/> 
          <img src="/images/mpgc-forthhole-img2.jpg"
@@ -135,15 +133,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>       
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>          
          <br/>
          <br/>
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 5</p>
          <br/>
          <br/>
-         <br/>
-         <br/>
-         <br/>
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 5:</p>
          <img 
          src="/images/mpgc-fifthhole-img1.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
@@ -172,15 +167,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>          
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>      
          <br/>
          <br/>
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 6</p>
          <br/>
          <br/>
-         <br/>
-         <br/>
-         <br/>
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 6:</p>
          <img 
          src="/images/mpgc-sixthhole-img2.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
@@ -208,13 +200,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
-         <br/>
-         <br/>   
-         <br/>
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>        
          <br/>
          <br/> 
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 7:</p>                 
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 7</p>
+         <br/>
+         <br/>                 
          <img 
          src="/images/mpgc-seventhhole-img1.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
@@ -246,12 +237,12 @@ class CourseTour extends Component {
          <br/>   
          <br/>
          <br/> 
-          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
-          <br/>
-         <br/>
+          <hr style={{borderTop:"2px solid orange", width:"95%"}}/>         
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 8:</p> 
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 8</p> 
+         <br/>
+         <br/>
           <img 
          src="/images/mpgc-eighthhole-img.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
@@ -283,11 +274,12 @@ class CourseTour extends Component {
          <br/>
          <br/> 
           <hr style={{borderTop:"2px solid orange", width:"95%"}}/>
-         <br/>
-         <br/>   
+         
          <br/>
          <br/>  
-         <p style={{color:"orange", fontSize:"40px"}}>HOLE 9:</p>       
+         <p style={{color:"orange", fontSize:"40px"}}>HOLE - 9</p>  
+         <br/>
+         <br/>      
             <img src="/images/mpgc-ninthhole-img2.jpg"
          style={{height:"300px", width:"300px", marginRight:"40px"}}/>
          <img src="/images/mpgc-ninthhole-img1.jpg"

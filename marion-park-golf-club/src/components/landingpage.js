@@ -26,13 +26,13 @@ class Landing extends Component {
 
             <div className="banner-text">
 
-            <h1 style={{fontSize: "65px", textAlign:"center", color:"lightgreen"}}>Welcome to Marion Park Golf Club</h1>
+            <h1 style={{fontSize: "65px", textAlign:"center", color:"lightgreen"}}>Welcome to Marion Park Golf Club.</h1>
 
 <hr/>
 <div style={{textAlign:"center"}}>    
 
 <p>
-Established in 1980 by a group of southern suburb locals who wanted to play in club without the high costs and with a friendly and social atmosphere, the Marion Park Golf Club continues to provide all the benefits of larger golf club memberships but without the high cost commitment or lack of flexibility.
+Established in 1980 by a group of southern suburb locals who wanted to play in a club without the high costs and with a friendly and social atmosphere, the Marion Park Golf Club continues to provide all the benefits of larger golf club memberships but without the high cost commitment or lack of flexibility.
 
 ​<br/>
 <br/>
